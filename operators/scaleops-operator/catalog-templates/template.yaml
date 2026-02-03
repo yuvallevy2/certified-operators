@@ -40,3 +40,5 @@ Stable:
       registry.connect.redhat.com/scaleops-sh/scaleops-operator-bundle@sha256:2fefe7a0ff71796d83708185795051cab85f6ebdbc0f3334ca59cc8a9ae4735e
   - Image: 
       registry.connect.redhat.com/scaleops-sh/scaleops-operator-bundle@sha256:efc2ef95cdbff4e76229128456ce087bcd189a766715f57bd9ab9c4bae270f7c
+  - Image: 
+      registry.connect.redhat.com/scaleops-sh/scaleops-operator-bundle@sha256:4075f56b718cefeabb35393902bf37dc535b8b38e0a5b2fadc7915f5f2f1410e
